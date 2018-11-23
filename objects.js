@@ -1,3 +1,3 @@
 var playlist = {
-  DaftPunk: ""
+  DaftPunk: "Motherboard"
 }
